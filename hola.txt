@@ -1,0 +1,1 @@
+El participante A deberá crear un repositorio local, vincularlo con el repositorio remoto que creó anteriormente y subir un archivo hola.txt con un breve texto dentro.
