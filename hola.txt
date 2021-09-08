@@ -1,1 +1,2 @@
-El participante A deberá crear un repositorio local, vincularlo con el repositorio remoto que creó anteriormente y subir un archivo hola.txt con un breve texto dentro.
+El participante A deberá crear un repositorio local, vincularlo con el repositorio 
+remoto que creó anteriormente y subir un archivo hola.txt con un breve texto dentro.Podés postularte para conformar un equipo de proyecto que tendrá la misión de educar, investigar y proponer iniciativas para acelerar nuestro objetivo de ser la empresa más diversa e inclusiva de Latino América.
