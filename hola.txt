@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 loremfdsa hola hola hola hola hola fsdafshkjh fdsiuahfudisahfod fdsahihuhfdsa fdsa iudsafbdsahjbjf fdsauyguydsfadf huihdsuafdsafsdf fdsfdsfdashfudishai fdsafdsaf dsaf fsa fdsafdsafdsa fdsafsdfdgfgegrgergrgrgreeereareaewrwawerew
+=======
+El participante A deberá crear un repositorio local, vincularlo con el repositorio remoto que creó anteriormente y subir un archivo hola.txt con un breve texto dentro.
+>>>>>>> 10ecccbcff5cac93fbb922b10d41f11b3d531253
